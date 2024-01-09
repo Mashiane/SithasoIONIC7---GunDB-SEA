@@ -1,4 +1,4 @@
-This is a b4x project using SithasoIONIC7 - available here on GitHub.
+This is a b4x example project using SithasoIONIC7 - available here on GitHub.
 
 You can use this b4xlib in any BANano Project. Copy the attached b4xlib to your additional libraries folder.
 
